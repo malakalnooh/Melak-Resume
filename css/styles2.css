@@ -1,0 +1,22 @@
+body {background-color: #92a8d1;
+font-family: 'PT Serif', serif;
+font-size: 20px;
+
+}
+
+h1{
+  margin-bottom: 50px;
+  margin-left: 75px;
+  margin-top: 50px;
+  padding-left: 50px;
+}
+
+.img1 {
+  width: 100px;
+  position: absolute;
+clip: rect(30px,150px,125px,6px)
+}
+
+.header {
+  padding-bottom: 20px;
+}
